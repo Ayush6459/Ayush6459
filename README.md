@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Ayush6459 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Ayush6459 | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Ayush6459 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="Ayush6459 | Kaggle" width="80px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][Kaggle]
+[<img align="left" alt="Ayush6459 | Kaggle" width="80px" src="https://www.iconfinder.com/icons/4373210/kaggle_logo_logos_icon" />][Kaggle]
 
 <br>
 
