@@ -46,3 +46,19 @@ Here are some ideas to get you started:
 ### My Hobbies and intrests :- 
 * Solving Sudoku
 * Long Walk
+
+
+#### You can also find me on- 
+
+[<img align="left" alt="Ayush6459 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Ayush6459 | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Ayush6459 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="Ayush6459 | Kaggle" width="80px" src="https://logodix.com/logos/1078476" />][Kaggle]
+
+<br>
+
+[linkedin]: https://www.linkedin.com/in/ayushranjan6459/
+[twitter]: https://twitter.com/ayush6459
+[Instagram]: https://www.instagram.com/_ranjan.ayush/
+[Kaggle]: https://www.kaggle.com/ranjan6459
+
