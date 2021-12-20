@@ -70,3 +70,9 @@ Here are some ideas to get you started:
 [Instagram]: https://www.instagram.com/_ranjan.ayush/
 [Kaggle]: https://www.kaggle.com/ranjan6459
 
+<h3 align="left">Checkout my projects and open source contributions</h3>
+
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> </p>
+
+<p align="center"><a href="https://github.com/san-coding"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
