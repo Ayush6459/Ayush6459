@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello World !! I'm Ayush Ranjan. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">  </h1>
 <h3 align="center">Git pull a day, keep those conflicts away.</h3>
 
-- Currently working in Cognizant as a Program Analyst (Salesforce Developer).
+### Currently working in Cognizant as a Program Analyst (Salesforce Developer).
 
 
 ### I have technical experience and interest in -
