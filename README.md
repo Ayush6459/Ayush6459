@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 * Solving Sudoku
 * Long Walk
 
+<h3 align="left">My Github Stats:</h3>
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush6459&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush6459&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush6459&theme=dark)](https://git.io/streak-stats)
 
 #### You can also find me on- 
 
