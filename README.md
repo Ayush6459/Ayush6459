@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !!.</h1>
-<h1 align="center">I'm Ayush Ranjan</h1>
-
+<h1 align="center><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> Hello World !! I'm Ayush Ranjan. </h1>
+<!--                                                                                                                                  
+<h1 align="center">I'm Ayush Ranjan</h1 -->
 
 ### I have technical experience and interest in -
 * Computer vision 
